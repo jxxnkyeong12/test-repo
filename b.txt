@@ -1,1 +1,4 @@
 This is written in 
+
+Resource 자원
+Rest API , Rest 뜻
